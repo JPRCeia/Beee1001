@@ -3,5 +3,7 @@ public class App {
         int a = 10;
         int b = 9;
         int x = a+b;
+
+        System.out.println(x);
     }
 }
